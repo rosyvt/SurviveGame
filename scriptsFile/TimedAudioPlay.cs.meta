@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Script/Misc/TimedCamShake.cs.meta
+guid: 72045c2340b344be3bcbeacfaa3803bb
+========
+guid: 08eec508fbaa2442497a3a33e0b1b0d0
+>>>>>>>> 079c7dd6 (Fix several issues 4):Assets/Script/Misc/TimedAudioPlay.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
